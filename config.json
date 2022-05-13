@@ -1,0 +1,86 @@
+{
+    "bot": {
+        "owner": "499977635389112320",
+        "prefix": ".",
+        "BotStatus": "Mercia",
+        "BotFooter": "Mercia Unturned",
+        "cooldown": 8
+    },
+    "penals": {
+        "ban": {
+            "staff": "972398319655587870",
+            "log": "972398085948973097",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "972398320062443551",
+            "roles": "972529670094487573",
+            "log": "972528019392593920",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "972398321559830548",
+            "roles": "972528275421282454",
+            "log": "972528114372575272",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "972529940119564308",
+            "log": "972530136278765590"
+        },
+        "transport": {
+            "staff": "972397903450603530"
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "rollog": "972530350653837384",
+        "messagelog": "972530350653837384",
+        "seslog": "972530350653837384"
+    },
+    "roles": {
+        "vip": "972397959914344499",
+        "sponsor": "972397941799129158",
+        "müzisyen": "972397959914344499"
+    },
+    "channels": {
+        "chat": "972530350653837384",
+        "voicechannel": "972398123894833182",
+        "welcomechannel": "972526140440862721",
+        "rules": "972398166685155359"
+    },
+    "registration": {
+        "unregistered": "972398323136888862",
+        "man": ["972398322239275058", "972397974430830603"],
+        "woman": ["972398323950583808", "972397974430830603"],
+        "yetkilialim": "972398326030938152",
+        "staff": "972397898778181642",
+        "enaltyetkilirolü": "972397903450603530",
+        "GuilDTag": "FOEAIKFAEOIFIKAEFIAEOFIAIOFA",
+        "TagSymbol": "",
+        "autonickname": "$ İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "972529670094487573",
+        "susoeciosnickname": "Şüpheli Hesap",
+        "oneman": "972398322239275058",
+        "onewoman": "972398323950583808",
+        "minage": 13,
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "972395626211979266",
+        "GuilDName": "Mercia Roleplay #TR",
+        "GuildOwnerRole": ["972398268527038475"]
+    },
+    "emojis": {
+        "tada": ":tada:",
+        "yes": ":thumbsup:",
+        "no": ":thumbsdown:"
+
+    }
+}
